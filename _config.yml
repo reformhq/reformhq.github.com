@@ -2,4 +2,4 @@ exclude:
   - fabfile.py
   - fabfile.pyc
   - CNAME
-  - README
+  - README.rst
